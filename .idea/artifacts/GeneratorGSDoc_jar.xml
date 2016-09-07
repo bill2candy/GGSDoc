@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="GeneratorGSDoc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GeneratorGSDoc_jar</output-path>
+    <root id="root">
+      <element id="archive" name="GeneratorGSDoc.jar">
+        <element id="module-output" name="GeneratorGSDoc" />
+      </element>
+    </root>
+  </artifact>
+</component>
